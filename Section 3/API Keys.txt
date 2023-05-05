@@ -1,0 +1,16 @@
+API Keys
+Eleven Labs: https://beta.elevenlabs.io/subscription
+
+Click on profile image > Profile
+
+
+
+Open AI API Key: https://platform.openai.com/account/api-keys
+
+Just create a key and copy it
+
+
+
+Open AI Org: https://platform.openai.com/account/org-settings
+
+Just copy your org id
